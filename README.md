@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BobbaGunoosh
+- 👋 Hi, I’m Joey!
 - 👀 I’m interested in React!
 - 🌱 I’m currently learning Kotlin. 
 - 💞️ I’m looking to collaborate on literally anything that helps me to keep growing as a developer. 
